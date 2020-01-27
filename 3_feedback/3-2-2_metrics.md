@@ -1,0 +1,2 @@
+- Scrum Masters Night!でディスカッションしました。メトリクスは目標の達成状況を見える化するためのものなので、まずはチームで目標や課題について意識を合わせる必要があるという話をして、勉強になりました。
+  + [第25回 Scrum Masters Night!参加レポート](https://sonomirai.hatenablog.com/entry/2019/08/22/005323)
